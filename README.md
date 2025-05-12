@@ -13,10 +13,10 @@ This is a basic clone of the Myntra homepage built using HTML and CSS. It replic
 ## 🗂 Folder Structure
 
 /project-root
-│
-├── index.html # Main HTML file
-├── styles.css # Stylesheet for layout and design
-└── images/ # Image assets used in the project (store these locally)
+
+ index.html # Main HTML file
+ styles.css # Stylesheet for layout and design
+ images/ # Image assets used in the project (store these locally)
 
 
 > Note:Make sure to update all `src` paths in `index.html` to use relative URLs instead of absolute paths like `D:\Myntra\images\...`.
