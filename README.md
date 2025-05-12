@@ -27,7 +27,16 @@ This is a basic clone of the Myntra homepage built using HTML and CSS. It replic
 2. Place your `images/` folder in the project root.
 3. Update all image paths in `index.html` to match the relative path: `images/...`
 4. Open `index.html` in a web browser.
-   
+
+5. after comletion the project may look like in the way in screenshots.
+
+## Screenshots
+![clone1](https://github.com/user-attachments/assets/cce2a81e-1b91-4161-a877-3f97a6b74be0)
+![clone2](https://github.com/user-attachments/assets/a40b5924-8de6-46d7-aeb6-3ec3c75a8881)
+![clone3](https://github.com/user-attachments/assets/9636cfed-8176-4b40-a4c4-6129c52b14a1)
+![clone4](https://github.com/user-attachments/assets/a653dc29-7806-4cf9-ab90-dfaab872ba71)
+
+
 ## 📝 License
 
 This project is created for educational purposes only and is not intended for commercial use.
